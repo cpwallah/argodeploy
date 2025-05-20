@@ -5,7 +5,7 @@ metadata:
 spec:
   containers:
   - name: nginx
-    image: 100xdevs/todo-app-week-39:54d61a156a8b5e0ce9b5e779e5ac529550fc4ce3
+    image: cpwallah/todo-app-week-39:d6b6b1c46594f8d3a9383bdfb06aac2eeb2e17d5
     ports:
     - containerPort: 80
     ---
@@ -16,6 +16,6 @@ metadata:
 spec:
   containers:
   - name: nginx
-    image: 100xdevs/todo-app-week-39:54d61a156a8b5e0ce9b5e779e5ac529550fc4ce3
+    image: cpwallah/todo-app-week-39:d6b6b1c46594f8d3a9383bdfb06aac2eeb2e17d5
     ports:
     - containerPort: 80
